@@ -2,7 +2,8 @@
 - 👀 I’m interested in Programming & Learning
 - 🌱 I’m currently learning multiple things
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me
+  email: riaz7se@gmail.com
 
 <!---
 riaz7se/riaz7se is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
